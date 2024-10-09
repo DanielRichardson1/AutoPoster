@@ -6,7 +6,7 @@ __pycache__/
 .env
 
 # Sensitive files
-client_secret.json
+youtube_client_secret.json
 token.json
 
 # Other files to ignore
