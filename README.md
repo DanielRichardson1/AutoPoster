@@ -1,0 +1,1 @@
+![DALL·E 2024-10-09 17 05 48 - A modern, sleek logo for a Python script called 'AutoPoster' that automatically posts content to TikTok, Instagram, and YouTube  The design should inc](https://github.com/user-attachments/assets/c1f28a71-51b1-4997-b001-b4b7c704197c)
