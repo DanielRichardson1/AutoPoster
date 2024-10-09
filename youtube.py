@@ -80,16 +80,3 @@ def upload_video(file_path, title, description, tags, category_id, scheduled_tim
     
     response = request.execute()
     print(f"Video uploaded with ID: {response['id']}")
-
-# Define your video details
-file_path = "path/to/your/video.mp4"
-title = "Your YouTube Shorts Title"
-description = "Description of your video."
-tags = ["Shorts", "example", "demo"]
-category_id = "22"  # Category ID for People & Blogs, adjust accordingly
-
-# Schedule the post to 24 hours from now
-scheduled_time = (datetime.datetime.now(datetime.timezone.utc) + datetime.timedelta(hours=24)).isoformat("T") + "Z"
-
-# Call the function to upload and schedule the video
-upload_video(file_path, title, description, tags, category_id, scheduled_time)
