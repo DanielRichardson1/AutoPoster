@@ -43,7 +43,7 @@ for i in range(0, num_posts):
     # instagram
     
     # youtube
-    upload_video(file_path, title, description, tags, category_id, times_to_post[i])
+    upload_video(file_path, title, description, tags, category_id, times_to_post[i])  # TODO: title, description, tags, category_id, and fix post time format
     # tiktok
 
     # move the file to the used folder
