@@ -7,7 +7,7 @@ __pycache__/
 
 # Sensitive files
 youtube_client_secret.json
-token.json
+youtube_token.json
 
 # Other files to ignore
 *.log
