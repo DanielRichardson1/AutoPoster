@@ -1,0 +1,14 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Sensitive files
+client_secret.json
+token.json
+
+# Other files to ignore
+*.log
+*.tmp
